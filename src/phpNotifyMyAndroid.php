@@ -1,6 +1,8 @@
 <?php
 
-class nmaApi
+namespace phpNotifyMyAndroid;
+
+class phpNotifyMyAndroid
 {
 
     /**
