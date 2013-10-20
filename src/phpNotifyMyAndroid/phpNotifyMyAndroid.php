@@ -238,7 +238,7 @@ class phpNotifyMyAndroid
      *
      * @return bool
      */
-    private function process_xml_return(SimpleXMLElement $obj)
+    private function process_xml_return(\SimpleXMLElement $obj)
     {
 
         if (isset($obj->success)) {
